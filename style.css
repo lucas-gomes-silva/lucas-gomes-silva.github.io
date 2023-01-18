@@ -1,0 +1,11 @@
+p {
+            
+}
+body {
+  background-color: rgb(68, 56, 92);
+}
+
+li:hover {
+  background-color: rgb(120, 22, 211);
+  color: rgb(255, 255, 255);
+}
